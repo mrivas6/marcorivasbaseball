@@ -1,1 +1,4 @@
+git rm about/index.html
+git commit -m "Eliminar index.html dentro de about"
+git push
 
